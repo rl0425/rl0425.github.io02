@@ -108,7 +108,7 @@
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
           <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
           <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
-          <h4 class="resume-item-details" itemprop="description">{{ project.role }}  &bull; {{ project.duration }}</h4>
+          <h4 class="resume-item-details" itemprop="description">{{ project.role }}  &bull;<p></p> {{ project.duration }}</h4>
           <p class="resume-item-copy">{{ project.description }}</p>
           <p class="resume-item-copy">{{ project.description2 }}</p>
         </div>
@@ -168,7 +168,7 @@
         <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name">{% if association.url %}<a href="{{ association.url }}">{{ association.organization }}</a>{% else %}{{ association.organization }}{% endif %}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ association.role }} &bull;</h4>
-          <h4 class="resume-item-details" itemprop="description">{{ association.year }} &bull;</h4>
+          <h4 class="resume-item-details" itemprop="description">{{ association.year }}</h4>
           <p class="resume-item-copy">{{ association.summary }}</p>
         </div>
         {% endfor %}
