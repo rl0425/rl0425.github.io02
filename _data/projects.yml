@@ -15,12 +15,11 @@
   description: React와 Firebase를 사용한 웹 어플리케이션입니다. 기존의 트위터의 메인기능을 구현해본 프로젝트로써 다른 사이트(Google, Github)를 연동한 회원가입, 글 작성과 수정, 삭제를 할 수 있는 리스트를 구현했습니다. Hooks를 이용해 상태관리를 했으며 git을 통해 형상관리를 했습니다.
   description2: <a href="https://github.com/rl0425/nwitter-last"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a><a href="https://github.com/rl0425/ToDo-List">&mdash; Link </a>
 
-
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: Nwitter
+  role: <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/><img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/><img alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/> &mdash; Skills 
+  duration: 2021 &mdash; Present
+  description: React와 Firebase를 사용한 웹 어플리케이션입니다. 기존의 트위터의 메인기능을 구현해본 프로젝트로써 다른 사이트(Google, Github)를 연동한 회원가입, 글 작성과 수정, 삭제를 할 수 있는 리스트를 구현했습니다. Hooks를 이용해 상태관리를 했으며 git을 통해 형상관리를 했습니다.
+  description2: <a href="https://github.com/rl0425/nwitter-last"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a><a href="https://github.com/rl0425/ToDo-List">&mdash; Link </a>
 
 # Springfield Community Outreach Group
 - project: Springfield Community Outreach Group
