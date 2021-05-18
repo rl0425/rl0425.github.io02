@@ -15,17 +15,17 @@
   #description: React와 Firebase를 사용한 웹 어플리케이션입니다. 기존의 트위터의 메인기능을 구현해본 프로젝트로써 다른 사이트(Google, Github)를 연동한 회원가입, 글 작성과 수정, 삭제를 할 수 있는 리스트를 구현했습니다. Hooks를 이용해 상태관리를 했으며 git을 통해 형상관리를 했습니다.
   #description2: <a href="https://github.com/rl0425/nwitter-last"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a><a href="https://github.com/rl0425/ToDo-List">&mdash; Link </a>
 
+- project: Nwitter
+  role: <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/>&mdash; Skills
+  duration: 2021 &mdash; Present
+  description: React와 Firebase를 사용한 웹 어플리케이션입니다. 기존의 트위터의 메인기능을 구현해본 프로젝트로써 다른 사이트(Google, Github)를 연동한 회원가입, 글 작성과 수정, 삭제를 할 수 있는 리스트를 구현했습니다. Hooks를 이용해 상태관리를 했으며 git을 통해 형상관리를 했습니다.
+  description2: <a href="https://github.com/rl0425/nwitter-last"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a><a href="https://github.com/rl0425/ToDo-List">&mdash; Link </a>
+
 - project: Weather-Playlist
   role: <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/><img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/><img alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/> &mdash; Skills 
   duration: 2020 &mdash; Present
   description: Javascript를 사용한 웹 어플리케이션입니다. Navigator 인터페이스를 이용해 사용자의 경도와 위도를 가져와 현재 위치의 도시이름과 현재온도, 체감온도를 표시합니다. 또한 날씨에 맞는 음악 playlist를 youtube api를 통해 가져와 화면에 출력합니다. (구현중)
   description2: <a href="https://github.com/rl0425/Weather-playList"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a><a href="https://github.com/rl0425/ToDo-List">&mdash; Link </a>
-
-- project: Nwitter
-  role: <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/>
-  duration: 2021 &mdash; Present
-  description: React와 Firebase를 사용한 웹 어플리케이션입니다. 기존의 트위터의 메인기능을 구현해본 프로젝트로써 다른 사이트(Google, Github)를 연동한 회원가입, 글 작성과 수정, 삭제를 할 수 있는 리스트를 구현했습니다. Hooks를 이용해 상태관리를 했으며 git을 통해 형상관리를 했습니다.
-  description2: <a href="https://github.com/rl0425/nwitter-last"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a><a href="https://github.com/rl0425/ToDo-List">&mdash; Link </a>
 
 
 # Springfield Community Outreach Group
