@@ -2,7 +2,7 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- Solo: &bull; 개인 프로젝트
+- Solo:  // &bull; 개인 프로젝트
 - project: ToDo-List
   role: <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/><img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/><img alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/> &mdash; Skills 
   duration: 2020 &mdash; Present
@@ -33,7 +33,7 @@
   duration: 2021 &mdash; Present
   description: Cacao 사에서 배포중인 API를 사용한 위치 즐겨찾기 웹 어플리케이션입니다. React와 nodejs, MongoDB 플랫폼을 사용했습니다. 사용자가 원하는 장소를 검색하고, 다음에도 찾을만한 장소들을 따로 저장하여 즐겨찾기 리스트를 작성할 수 있습니다.
   description2: <a href="https://github.com/rl0425/MapLibrary"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a><a href="https://github.com/rl0425/ToDo-List">&mdash; Link </a>
-- Team : &bull; 팀 프로젝트
+- Team :  // &bull; 팀 프로젝트
 
 # Springfield Community Outreach Group
 #- project: Springfield Community Outreach Group
