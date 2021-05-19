@@ -154,7 +154,7 @@
       font-size: 1rem;
     }
   }
-
+  .resume-item-git,
   .resume-item-title,
   .resume-item-details,
   .resume-item-copy,
@@ -169,6 +169,11 @@
         color: #9c9c9c;
       }
     }
+  }
+
+  .resume-item-git {
+    position: right;
+    float:right;
   }
 
   .resume-item-copy { margin: .75rem 0 0; }
