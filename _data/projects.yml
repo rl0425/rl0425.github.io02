@@ -35,6 +35,12 @@
   description2: <a href="https://github.com/rl0425/MapLibrary"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a><a href="https://github.com/rl0425/ToDo-List">&mdash; Link </a>
 - Team :  // &bull; 팀 프로젝트
 
+- project: LangTube
+  role: <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"/><img alt="express" src ="https://img.shields.io/badge/express-000000.svg?&style=for-the-badge&logo=express&logoColor=white"/> &mdash; Skills 
+  duration: 2021 &mdash; Present
+  description: 처음으로 개발한 팀 프로젝트입니다. ReactNative, MongoDB, express를 이용했습니다. Youtube API를 불러와 데이터를 저장한 후 인기 동영상, 카테고리 구분 기능과 채널에 like,dislike 같은 부가기능을 구현했습니다.
+  description2: <a href="https://github.com/rl0425/LangTube"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a><a href="https://github.com/rl0425/ToDo-List">&mdash; Link </a>
+
 # Springfield Community Outreach Group
 #- project: Springfield Community Outreach Group
 #  role: Co-Founder & Organizer
