@@ -19,20 +19,20 @@
 - project: Weather-Playlist
   role: <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/><img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/><img alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/> 
   duration: 2020 &mdash; Present
-  description: <i class="fas fa-cog"></i>&nbsp;Javascript를 사용한 웹 어플리케이션입니다. Navigator 인터페이스를 이용해 사용자의 경도와 위도를 가져와 현재 위치의 도시이름과 현재온도, 체감온도를 표시합니다. 또한 날씨에 맞는 음악 playlist를 youtube api를 통해 가져와 화면에 출력합니다. (구현중)
+  description: <i class="fas fa-cog"></i>&nbsp;Javascript를 사용한 웹 어플리케이션입니다. Navigator 인터페이스를 이용해 사용자의 경도와 위도를 가져와 현재 위치의 도시이름과 현재온도, 체감온도를 표시합니다. 또한 날씨에 맞는 음악 playlist를 youtube api를 통해 가져와 화면에 출력합니다. 구현 중에 있는 프로젝트입니다. <p></p> <i class="fas fa-tag"></i>&nbsp; 날씨에 맞는 음악을 듣고싶을 경우에 직접 찾아야 하는 번거로움을 해결하기 위해 개발한 사이트였습니다. 날씨를 불러오는 과정에서 비동기 처리가 필요했고, async await 처리 패턴을 사용했습니다. 기존 비동기 처리방식인 콜백 함수보다 깔끔하고 개발하기 편리했습니다. 비동기 처리방식의 특징들과 장단점을 비교할 수 있는 프로젝트였습니다.
   description2: <a href="https://github.com/rl0425/Weather-playList" style="text-decoration:none"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 
-- project: MapLibrary
-  role: <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/><img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"/> 
-  duration: 2021 &mdash; Present
-  description: <i class="fas fa-cog"></i>&nbsp;Cacao 사에서 배포중인 API를 사용한 위치 즐겨찾기 웹 어플리케이션입니다. React와 nodejs, MongoDB 플랫폼을 사용했습니다. 사용자가 원하는 장소를 검색하고, 다음에도 찾을만한 장소들을 따로 저장하여 즐겨찾기 리스트를 작성할 수 있습니다.
-  description2: <a href="https://github.com/rl0425/MapLibrary" style="text-decoration:none"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+- #project: MapLibrary
+  #role: <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/><img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"/> 
+  #duration: 2021 &mdash; Present
+  #description: <i class="fas fa-cog"></i>&nbsp;Cacao 사에서 배포중인 API를 사용한 위치 즐겨찾기 웹 어플리케이션입니다. React와 nodejs, MongoDB 플랫폼을 사용했습니다. 사용자가 원하는 장소를 검색하고, 다음에도 찾을만한 장소들을 따로 저장하여 즐겨찾기 리스트를 작성할 수 있습니다.
+  #description2: <a href="https://github.com/rl0425/MapLibrary" style="text-decoration:none"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 
 - Team :  / &bull; 팀 프로젝트
 - project: LangTube
   role: <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"/><img alt="express" src ="https://img.shields.io/badge/express-000000.svg?&style=for-the-badge&logo=express&logoColor=white"/>  
   duration: 2021 &mdash; Present
-  description: <i class="fas fa-cog"></i>&nbsp;처음으로 개발한 팀 프로젝트입니다. ReactNative, MongoDB, express를 이용했습니다. Youtube API를 불러와 데이터를 저장한 후 인기 동영상, 카테고리 구분 기능과 채널에 like,dislike 같은 부가기능을 구현했습니다.
+  description: <i class="fas fa-cog"></i>&nbsp;처음으로 개발한 팀 프로젝트입니다. ReactNative, MongoDB, express를 사용했습니다. Youtube API를 불러와 데이터를 저장한 후 인기 동영상, 카테고리 구분 기능과 채널에 like,dislike 같은 부가기능을 구현했습니다.  <p></p> <i class="fas fa-tag"></i>&nbsp; 애플리케이션 제작 플랫폼을 사용해 앱을 만들어 보는 것이 목적이였습니다. 여러 플랫폼 중 러닝 커브가 낮고 React와 JS를 다룬 경험이 있는 저희는 React Native를 선택 했습니다. 저는 FE를 맡아 앱의 전반적인 디자인과 구현을 수행했고 Redux를 사용해 다소 복잡한 상태관리를 해결했습니다.
   description2: <a href="https://github.com/rl0425/LangTube" style="text-decoration:none"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 
 # Springfield Community Outreach Group
