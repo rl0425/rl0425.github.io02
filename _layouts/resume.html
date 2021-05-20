@@ -3,7 +3,7 @@
   <link href="https://fonts.googleapis.com/css?family=Nanum+Gothic:400,700,800&amp;subset=korean" rel="stylesheet">
   <script src="https://use.fontawesome.com/releases/v5.2.0/js/all.js"></script>
   <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" />
-  
+
 
   {% include head.html %}
   <body class="theme-{% if site.resume_theme %}{{ site.resume_theme }}{% endif %}">
@@ -99,7 +99,24 @@
       </section>
       <!-- end Education -->
       {% endif %}
+      
+      {% if site.resume_section_skills %}
+      <!-- begin Skills -->
+      <section class="content-section">
 
+        <header class="section-header">
+          <h2>Skills</h2>
+        </header>
+        {% for skill in site.data.skills %}
+        <div class="resume-item">
+          <h4 class="resume-item-details">{{ skill.skill }}</h4>
+          <p class="resume-item-copy">{{ skill.description }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Skills -->
+      {% endif %}
 
       {% if site.resume_section_projects %}
       <!-- begin Projects -->
@@ -126,23 +143,7 @@
       <!-- end Projects -->
       {% endif %}
 
-      {% if site.resume_section_skills %}
-      <!-- begin Skills -->
-      <section class="content-section">
-
-        <header class="section-header">
-          <h2>Skills</h2>
-        </header>
-        {% for skill in site.data.skills %}
-        <div class="resume-item">
-          <h4 class="resume-item-details">{{ skill.skill }}</h4>
-          <p class="resume-item-copy">{{ skill.description }}</p>
-        </div>
-        {% endfor %}
-
-      </section>
-      <!-- end Skills -->
-      {% endif %}
+      
 
       {% if site.resume_section_recognition %}
       <!-- begin Recognition -->
