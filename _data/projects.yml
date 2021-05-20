@@ -9,6 +9,7 @@
   description: <h4>상세내용 :<h4> Javascript를 사용한 웹 어플리케이션입니다. 현재 사용자의 좌표를 입력받아 해당 지역의 온도와 도시의 이름을 받아옵니다. 사용자로부터 할 일을 입력받아 Localstorage에 저장함으로써 기록과 동시에 삭제가 가능한 리스트를 생성합니다.
   #url: <a href rel="https://github.com/rl0425/ToDo-List" alt="GitAddress"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
   description2: <a href="https://github.com/rl0425/ToDo-List" style="text-decoration:none"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+  description: <i class="fas fa-cog"></i> 이러한 기술을 사용합니다!
 
 - project: Nwitter
   role: <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/>
