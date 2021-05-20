@@ -6,20 +6,20 @@
 - project: ToDo-List
   role: <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/><img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/><img alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/>  
   duration: 2020 &mdash; Present
-  description: <i class="fas fa-cog"></i>&nbsp;Javascript를 사용한 웹 어플리케이션입니다. 현재 사용자의 좌표를 입력받아 해당 지역의 온도와 도시의 이름을 받아옵니다. 사용자로부터 할 일을 입력받아 Localstorage에 저장함으로써 기록과 동시에 삭제가 가능한 리스트를 생성합니다. <p></p> <i class="fas fa-tag"></i>&nbsp;프로젝트의 특성 상 사용자에게 할 일 리스트를 입력받은 후에 홈페이지를 리로드 했을 때도 리스트가 유지되어야 했습니다. 따라서 Cookie나 LocalStorage를 사용해야 했었고 서버측과의 연결이 필요없어 LocalStorage를 사용했습니다. 이 과정에서 LocalStorage를 다루는 방법을 익혔습니다.
+  description: <i class="fas fa-cog"></i>&nbsp;Javascript를 사용한 웹 어플리케이션입니다. 현재 사용자의 좌표를 입력받아 해당 지역의 온도와 도시의 이름을 받아옵니다. 사용자로부터 할 일을 입력받아 Localstorage에 저장함으로써 기록과 동시에 삭제가 가능한 리스트를 생성합니다. <p></p> <i class="fas fa-tag"></i>&nbsp;프로젝트의 특성 상 사용자에게 할 일 리스트를 입력받은 후에 홈페이지를 리로드 했을 때도 리스트가 유지되어야 했습니다. 따라서 Cookie나 LocalStorage를 사용해야 했었고 제 프로젝트에는 서버측과의 연결은 필요없어 Cookie 대신 LocalStorage를 사용했습니다. 이 과정에서 LocalStorage를 다루는 방법을 익혔습니다.
   description2: <a href="https://github.com/rl0425/ToDo-List" style="text-decoration:none"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 
 
 - project: Nwitter
   role: <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/>
   duration: 2021 &mdash; Present
-  description: <i class="fas fa-cog"></i>&nbsp;React와 Firebase를 사용한 웹 어플리케이션입니다. 기존의 트위터의 메인기능을 구현해본 프로젝트로써 다른 사이트(Google, Github)를 연동한 회원가입, 글 작성과 수정, 삭제를 할 수 있는 리스트를 구현했습니다. Hooks를 이용해 상태관리를 했으며 git을 통해 형상관리를 했습니다.  <p></p> <i class="fas fa-tag"></i>&nbsp; MongoDB와 같은 NoSQL 데이터베이스의 FireBase를 접하게 된 프로젝트였습니다. 기존 문서 지향 데이터베이스인 MongoDB와 달리 FireBase는 실시간 데이터베이스이기 때문에 게시물을 계속 생성하고 리로드 해줘야 하는 프로젝트의 특성상 FireBase가 적합했습니다.
+  description: <i class="fas fa-cog"></i>&nbsp;React와 Firebase를 사용한 웹 어플리케이션입니다. 기존의 트위터의 메인기능을 구현해본 프로젝트로써 다른 사이트(Google, Github)를 연동한 회원가입, 글 작성과 수정, 삭제를 할 수 있는 리스트를 구현했습니다. Hooks를 이용해 상태관리를 했으며 git을 통해 형상관리를 했습니다.  <p></p> <i class="fas fa-tag"></i>&nbsp; MongoDB와 같은 NoSQL 데이터베이스의 FireBase를 접하게 된 프로젝트였습니다. 기존 문서 지향 데이터베이스인 MongoDB와 달리 FireBase는 실시간 데이터베이스이기 때문에 게시물을 계속 생성하고 리로드 해줘야 하는 이번 프로젝트의 특성상 FireBase가 적합했습니다.
   description2: <a href="https://github.com/rl0425/nwitter-last" style="text-decoration:none"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 
 - project: Weather-Playlist
   role: <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/><img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/><img alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/> 
   duration: 2020 &mdash; Present
-  description: <i class="fas fa-cog"></i>&nbsp;Javascript를 사용한 웹 어플리케이션입니다. Navigator 인터페이스를 이용해 사용자의 경도와 위도를 가져와 현재 위치의 도시이름과 현재온도, 체감온도를 표시합니다. 또한 날씨에 맞는 음악 playlist를 youtube api를 통해 가져와 화면에 출력합니다. 구현 중에 있는 프로젝트입니다. <p></p> <i class="fas fa-tag"></i>&nbsp; 날씨에 맞는 음악을 듣고싶을 경우에 직접 찾아야 하는 번거로움을 해결하기 위해 개발한 사이트였습니다. 날씨를 불러오는 과정에서 비동기 처리가 필요했고, async await 처리 패턴을 사용했습니다. 기존 비동기 처리방식인 콜백 함수보다 깔끔하고 개발하기 편리했습니다. 비동기 처리방식의 특징들과 장단점을 비교할 수 있는 프로젝트였습니다.
+  description: <i class="fas fa-cog"></i>&nbsp;Javascript를 사용한 웹 어플리케이션입니다. Navigator 인터페이스를 이용해 사용자의 경도와 위도를 가져와 현재 위치의 도시이름과 현재온도, 체감온도를 표시합니다. 또한 날씨에 맞는 음악 playlist를 youtube api를 통해 가져와 화면에 출력합니다. 구현 중에 있는 프로젝트입니다. <p></p> <i class="fas fa-tag"></i>&nbsp; 날씨에 맞는 음악을 듣고싶을 경우에 직접 찾아야 하는 번거로움을 해결하기 위해 개발한 사이트였습니다. 날씨를 불러오는 과정에서 비동기 처리가 필요했고, async await 처리 패턴을 사용했습니다. 기존 비동기 처리방식인 콜백 함수보다 깔끔하고 개발하기 편리했습니다. 비동기 처리방식의 특징들의 장단점을 비교할 수 있는 프로젝트였습니다.
   description2: <a href="https://github.com/rl0425/Weather-playList" style="text-decoration:none"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 
 - project: MapLibrary
@@ -32,7 +32,7 @@
 - project: LangTube
   role: <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"/><img alt="express" src ="https://img.shields.io/badge/express-000000.svg?&style=for-the-badge&logo=express&logoColor=white"/>  
   duration: 2021 &mdash; Present
-  description: <i class="fas fa-cog"></i>&nbsp;처음으로 개발한 팀 프로젝트입니다. ReactNative, MongoDB, express를 사용했습니다. Youtube API를 불러와 데이터를 저장한 후 인기 동영상, 카테고리 구분 기능과 채널에 like,dislike 같은 부가기능을 구현했습니다.  <p></p> <i class="fas fa-tag"></i>&nbsp; 애플리케이션 제작 플랫폼을 사용해 앱을 만들어 보는 것이 목적이였습니다. 여러 플랫폼 중 러닝 커브가 낮고 React와 JS를 다룬 경험이 있는 저희는 React Native를 선택 했습니다. 저는 FE를 맡아 앱의 전반적인 디자인과 구현을 수행했고 Redux를 사용해 다소 복잡한 상태관리를 해결했습니다.
+  description: <i class="fas fa-cog"></i>&nbsp;처음으로 개발한 팀 프로젝트입니다. ReactNative, MongoDB, express를 사용했습니다. Youtube API를 불러와 데이터를 저장한 후 인기 동영상, 카테고리 구분 기능과 채널에 like,dislike 같은 부가기능을 구현했습니다.  <p></p> <i class="fas fa-tag"></i>&nbsp; 애플리케이션 제작 플랫폼을 사용해 앱을 만들어 보는 것이 목적이였습니다. 여러 플랫폼 중 러닝 커브가 낮고 React와 JS를 다룬 경험이 있는 저희는 React Native를 선택 했습니다. 저는 FE를 맡아 앱의 전반적인 디자인과 구현을 수행했고 Redux를 사용해 다소 복잡한 상태관리를 해결했습니다. 팀 프로젝트라고 하기에 형상관리가 수월하지 못했고 결과물도 초기 구성안보다 축소돼 아쉬웠던 프로젝트였습니다. 대신 git의 중요성을 깨닫게 되었습니다.
   description2: <a href="https://github.com/rl0425/LangTube" style="text-decoration:none"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 
 # Springfield Community Outreach Group
