@@ -12,8 +12,9 @@ $black:             #333;
 $text_color:        $black;
 
 // Font stack
-$body-font: Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol" !default;
-
+$body-font: 'Nanum Gothic', sans-serif !default;
+//$body-font: Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol" !default;
+//font-family: 'Nanum Gothic', sans-serif;
 // The base body size
 $body-font-size: 13px !default;
 
