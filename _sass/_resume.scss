@@ -173,13 +173,17 @@
       }
     }
   }
-
+  .resume-item-
   .resume-item-git {
     position: right;
     float:center;
   }
 
-  .resume-item-copy { margin: .75rem 0 0; }
+  .resume-item-copy {
+     font-size:1em;
+     font-weight: bold;
+     margin: .75rem 0 0;
+     }
 }
 
 // footer styles
