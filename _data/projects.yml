@@ -22,11 +22,11 @@
   description: <i class="fas fa-cog"></i>&nbsp;Javascript를 사용한 웹 어플리케이션입니다. Navigator 인터페이스를 이용해 사용자의 경도와 위도를 가져와 현재 위치의 도시이름과 현재온도, 체감온도를 표시합니다. 또한 날씨에 맞는 음악 playlist를 youtube api를 통해 가져와 화면에 출력합니다. 구현 중에 있는 프로젝트입니다. <p></p> <i class="fas fa-tag"></i>&nbsp; 날씨에 맞는 음악을 듣고싶을 경우에 직접 찾아야 하는 번거로움을 해결하기 위해 개발한 사이트였습니다. 날씨를 불러오는 과정에서 비동기 처리가 필요했고, async await 처리 패턴을 사용했습니다. 기존 비동기 처리방식인 콜백 함수보다 깔끔하고 개발하기 편리했습니다. 비동기 처리방식의 특징들과 장단점을 비교할 수 있는 프로젝트였습니다.
   description2: <a href="https://github.com/rl0425/Weather-playList" style="text-decoration:none"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 
-- #project: MapLibrary
-  #role: <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/><img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"/> 
-  #duration: 2021 &mdash; Present
-  #description: <i class="fas fa-cog"></i>&nbsp;Cacao 사에서 배포중인 API를 사용한 위치 즐겨찾기 웹 어플리케이션입니다. React와 nodejs, MongoDB 플랫폼을 사용했습니다. 사용자가 원하는 장소를 검색하고, 다음에도 찾을만한 장소들을 따로 저장하여 즐겨찾기 리스트를 작성할 수 있습니다.
-  #description2: <a href="https://github.com/rl0425/MapLibrary" style="text-decoration:none"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+- project: MapLibrary
+  role: <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/><img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"/> 
+  duration: 2021 &mdash; Present
+  description: <i class="fas fa-cog"></i>&nbsp;Cacao 사에서 배포중인 API를 사용한 위치 즐겨찾기 웹 어플리케이션입니다. React와 nodejs, MongoDB 플랫폼을 사용했습니다. 사용자가 원하는 장소를 검색하고, 다음에도 찾을만한 장소들을 따로 저장하여 즐겨찾기 리스트를 작성할 수 있습니다. <p></p> <i class="fas fa-tag"></i>&nbsp; 기존의 클론 코딩을 통해 공부한 코드에 아이디어를 접목했습니다. 평소 자주가는 장소들이나 다음에 가고싶은 맛집, 여행장소를 저장하기 위한 사이트입니다. 따라서 맵 API가 필요했고 처음에는 naver API를 사용했으나 Cacao API의 기능이 매력적이여서 노선을 바꿨습니다. 비동기 통신 라이브러리인 Axios를 사용해 HTTP 통신을 수행했고 기존의 클래스 컴포넌트를 Hooks로 바꾼 결과 코드가 더 깔끔하고 알아보기 쉬워졌습니다.
+  description2: <a href="https://github.com/rl0425/MapLibrary" style="text-decoration:none"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 
 - Team :  / &bull; 팀 프로젝트
 - project: LangTube
