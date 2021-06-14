@@ -25,14 +25,14 @@
 - project: MapLibrary
   role: <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/><img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"/> 
   duration: 2021 &mdash; Present
-  description: <i class="fas fa-cog"></i>&nbsp;Cacao 사에서 배포중인 API를 사용한 위치 즐겨찾기 웹 어플리케이션입니다. React와 nodejs, MongoDB 플랫폼을 사용했습니다. 사용자가 원하는 장소를 검색하고, 다음에도 찾을만한 장소들을 따로 저장하여 즐겨찾기 리스트를 작성할 수 있습니다. <p></p> <i class="fas fa-tag"></i>&nbsp; 기존의 클론 코딩을 통해 공부한 코드에 아이디어를 접목했습니다. 평소 자주가는 장소들이나 다음에 가고싶은 맛집, 여행장소를 저장하기 위한 사이트입니다. 따라서 맵 API가 필요했고 처음에는 naver API를 사용했으나 Cacao API의 기능이 매력적이여서 노선을 바꿨습니다. 비동기 통신 라이브러리인 Axios를 사용해 HTTP 통신을 수행했고 기존의 클래스 컴포넌트를 Hooks로 바꾼 결과 코드가 더 깔끔하고 알아보기 쉬워졌습니다.
+  description: <i class="fas fa-cog"></i>&nbsp;kakao 사에서 배포중인 API를 사용한 위치 즐겨찾기 웹 어플리케이션입니다. React와 nodejs, MongoDB 플랫폼을 사용했습니다. 사용자가 원하는 장소를 검색하고, 다음에도 찾을만한 장소들을 따로 저장하여 즐겨찾기 리스트를 작성할 수 있습니다. <p></p> <i class="fas fa-tag"></i>&nbsp; 기존의 클론 코딩을 통해 공부한 코드에 아이디어를 접목했습니다. 평소 자주가는 장소들이나 다음에 가고싶은 맛집, 여행장소를 저장하기 위한 사이트입니다. 따라서 맵 API가 필요했고 처음에는 naver API를 사용했으나 kakao API의 기능이 매력적이여서 노선을 바꿨습니다. 비동기 통신 라이브러리인 Axios를 사용해 HTTP 통신을 수행했고 기존의 클래스 컴포넌트를 Hooks로 바꾼 결과 코드가 더 깔끔하고 알아보기 쉬워졌습니다.
   description2: <a href="https://github.com/rl0425/MapLibrary" style="text-decoration:none"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 
 - Team :  / &bull; 팀 프로젝트
 - project: LangTube
   role: <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"/><img alt="express" src ="https://img.shields.io/badge/express-000000.svg?&style=for-the-badge&logo=express&logoColor=white"/>  
   duration: 2021 &mdash; Present
-  description: <i class="fas fa-cog"></i>&nbsp;처음으로 개발한 팀 프로젝트입니다. ReactNative, MongoDB, express를 사용했습니다. Youtube API를 불러와 데이터를 저장한 후 인기 동영상, 카테고리 구분 기능과 채널에 like,dislike 같은 부가기능을 구현했습니다.  <p></p> <i class="fas fa-tag"></i>&nbsp; 애플리케이션 제작 플랫폼을 사용해 앱을 만들어 보는 것이 목적이였습니다. 여러 플랫폼 중 러닝 커브가 낮고 React와 JS를 다룬 경험이 있는 저희는 React Native를 선택 했습니다. 저는 FE를 맡아 앱의 전반적인 디자인과 구현을 수행했고 Redux를 사용해 다소 복잡한 상태관리를 해결했습니다. 팀 프로젝트라고 하기에 형상관리가 수월하지 못했고 결과물도 초기 구성안보다 축소돼 아쉬웠던 프로젝트였습니다. 대신 git의 중요성을 깨닫게 되었습니다.
+  description: <i class="fas fa-cog"></i>&nbsp;처음으로 개발한 팀 프로젝트입니다. ReactNative, MongoDB, express를 사용했습니다. Youtube API를 불러와 데이터를 저장한 후 인기 동영상, 카테고리 구분 기능과 채널에 like,dislike 같은 부가기능을 구현했습니다.  <p></p> <i class="fas fa-tag"></i>&nbsp; 애플리케이션 제작 플랫폼을 사용해 앱을 만들어 보는 것이 목적이였습니다. 여러 플랫폼 중 러닝 커브가 낮고 React와 JS를 다룬 경험이 있는 저희는 React Native를 선택 했습니다. 저는 FE를 맡아 앱의 전반적인 디자인과 구현을 수행했고 Redux를 사용해 다소 복잡한 상태관리를 해결했습니다. 팀 프로젝트라고 하기에 형상관리가 수월하지 못했고 결과물도 초기 구성안보다 축소돼 아쉬웠던 프로젝트였습니다. 대신 git으로 하는 형상관리의 중요성을 깨닫게 되었습니다.
   description2: <a href="https://github.com/rl0425/LangTube" style="text-decoration:none"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 
 # Springfield Community Outreach Group
